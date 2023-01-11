@@ -35,7 +35,7 @@ if(a>namber)
   scene=1;
 }
 ```
-[README.mb](README.mb)へのリンク
+[README.md](README.md)へのリンク
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
