@@ -44,9 +44,8 @@
 - 1週間ゲームジャム「Re」参加作品
 
 ### RINGO SYOKUNIN
-//[<img src=".gif" alt="RINGOSYOKUNIN" style="height: 360px">](https://unityroom.com/games/reverser)
+[<img src=".gif" alt="RINGOSYOKUNIN" style="height: 360px">](https://unityroom.com/games/reverser)
 
-//[RINGO SYOKUNIN]
 
 リンゴを見分けてタイミングよく箱に落とそう！リズム仕分けゲームです。
 
