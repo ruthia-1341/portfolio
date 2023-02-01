@@ -44,13 +44,15 @@
 - 1週間ゲームジャム「Re」参加作品
 
 ### RINGO SYOKUNIN
-[<img src=".gif" alt="RINGOSYOKUNIN" style="height: 360px">](https://unityroom.com/games/reverser)
+[<img src="ringosyokunin.gif" alt="RINGO SYOKUNIN" style="height: 360px">]()
 
+[RINGO SYOKUNIN]()
 
 リンゴを見分けてタイミングよく箱に落とそう！リズム仕分けゲームです。
 
 - 開発環境：Unity
 - 開発期間：10日
+- DATフェスタ展示作品
 
 ## 連絡先
 - Twitter [@rum1341](https://twitter.com/rum1341) 
