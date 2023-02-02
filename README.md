@@ -56,7 +56,7 @@
 
 ### （タイトル未設定）　
 						※現在製作中
-[<img src="asagao.gif" alt="RINGO SYOKUNIN" style="height: 360px">]()
+[<img src="asagao.gif" alt="RINGO SYOKUNIN" style="height: 360px">]
 
 異世界に飛ばされた一人と、現世に取り残された二人。電話をつないで力を合わせ、脱出を目指せ。
 二つの世界を切り替えて進む探索ADV。
