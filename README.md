@@ -67,7 +67,7 @@ Re:verser
 ### 最期の灯
 [<img src="TLL.gif" alt="TheLastLight" style="height: 360px">]()
 
-TheLastLight
+最期の灯
 
 静かな海と塔、そして灯。凪いだ世界で過ごす最期の３日間。2D ADVです。
 
