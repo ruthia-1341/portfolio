@@ -56,7 +56,7 @@
 ### Re:verser
 [<img src="reverser.gif" alt="Re:verser" style="height: 360px">]
 
-[Re:verser]
+Re:verser
 
 「反転」ギミックを使って扉までたどり着け！２Dアクション型簡単パズルゲームです。
 
@@ -67,7 +67,7 @@
 ### 最期の灯
 [<img src="TLL.gif" alt="TheLastLight" style="height: 360px">]()
 
-[TheLastLight]
+TheLastLight
 
 静かな海と塔、そして灯。少年の過ごす最期の３日間。2D ADVです。
 
