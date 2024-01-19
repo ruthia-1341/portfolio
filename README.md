@@ -54,9 +54,9 @@
 - DATフェスタ展示作品
 
 ### Re:verser
-[<img src="" alt="Re:verser" style="height: 360px">]()
+[<img src="reverser.gif" alt="Re:verser" style="height: 360px">]
 
-[Re:verser]()
+[Re:verser]
 
 「反転」ギミックを使って扉までたどり着け！２Dアクション型簡単パズルゲームです。
 
@@ -72,6 +72,5 @@
 静かな海と塔、そして灯。少年の過ごす最期の３日間。2D ADVです。
 
 - 開発環境：Unity
-- 開発期間：2024/
-- 卒業制作
+- 開発期間：2023/12/18～
 
