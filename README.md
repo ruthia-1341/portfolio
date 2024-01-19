@@ -54,7 +54,7 @@
 - DATフェスタ展示作品
 
 ### Re:verser
-[<img src="reverser.gif" alt="Re:verser" style="height: 360px">]
+[<img src="reverser.gif" alt="Re:verser" style="height: 360px">]()
 
 [Re:verser]
 
