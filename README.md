@@ -65,9 +65,9 @@
 - 卒業制作
 
 ### 最期の灯
-[<img src="" alt="TheLastLight" style="height: 360px">]()
+[<img src="TLL.gif" alt="TheLastLight" style="height: 360px">]()
 
-[TheLastLight]()
+[TheLastLight]
 
 静かな海と塔、そして灯。少年の過ごす最期の３日間。2D ADVです。
 
