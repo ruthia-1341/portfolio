@@ -32,6 +32,28 @@
 - 開発期間：7日
 - 一週間ゲームジャム「ためる」参加作品
 
+### Re:verser（旧）
+[<img src="samune1.gif" alt="Re:verser" style="height: 360px">](https://unityroom.com/games/reverser)
+
+[Re:verser](https://unityroom.com/games/reverser)
+
+重力や色をReverseして旗の元までたどり着け！反転を使って進むパズルゲームです。
+
+- 開発環境：Unity
+- 開発期間：9日
+- 1週間ゲームジャム「Re」参加作品
+
+### RINGO SYOKUNIN
+[<img src="ringosyokunin.gif" alt="RINGO SYOKUNIN" style="height: 360px">](https://unityroom.com/games/ringo-syokunin)
+
+[RINGO SYOKUNIN](https://unityroom.com/games/ringo-syokunin)
+
+リンゴを見分けてタイミングよく箱に落とそう！リズム仕分けゲームです。
+
+- 開発環境：Unity
+- 開発期間：10日
+- DATフェスタ展示作品
+
 ### Re:verser
 [<img src="samune1.gif" alt="Re:verser" style="height: 360px">](https://unityroom.com/games/reverser)
 
@@ -54,16 +76,6 @@
 - 開発期間：10日
 - DATフェスタ展示作品
 
-### （タイトル未設定）　
-現在製作中
-[<img src="asagao.gif" alt="RINGO SYOKUNIN" style="height: 360px">]()
-
-異世界に飛ばされた一人と、現世に取り残された二人。電話をつないで力を合わせ、脱出を目指せ。
-二つの世界を切り替えて進む探索ADV。
-
-- 開発環境：Unity
-- 開発期間：2023/1/20～
-- フリゲ掲載サイトに投稿予定
 
 ## 連絡先
 - Twitter [@rum1341](https://twitter.com/rum1341) 
