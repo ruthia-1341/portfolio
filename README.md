@@ -7,17 +7,16 @@
 
 ## スキル
 - C#
-  - 利用歴1年
+  - 利用歴2年
 - Unity
-  - 利用歴1年
+  - 利用歴2年
   - オリジナルの個人作品の開発経験あり
 - C/C++
-  - 利用歴4年
-  - 簡単なクイズなどの制作が可能
+  - 利用歴5年
+  - ファイルの読み込みなど、簡単なものなら可能
 
 ## 取り組んでいるテーマ
-1. unity2DでオリジナルADVゲーム開発
-1. 反転を利用したパズルゲームの拡張、チーム制作
+1. unityでオリジナル2DADVゲーム開発
 
 ## 作品リスト
 
@@ -32,7 +31,7 @@
 - 開発期間：7日
 - 一週間ゲームジャム「ためる」参加作品
 
-### Re:verser
+### Re:verser（旧）
 [<img src="samune1.gif" alt="Re:verser" style="height: 360px">](https://unityroom.com/games/reverser)
 
 [Re:verser](https://unityroom.com/games/reverser)
@@ -54,17 +53,24 @@
 - 開発期間：10日
 - DATフェスタ展示作品
 
-### （タイトル未設定）　
-現在製作中
-[<img src="asagao.gif" alt="RINGO SYOKUNIN" style="height: 360px">]()
+### Re:verser
+[<img src="reverser.gif" alt="Re:verser" style="height: 360px">]()
 
-異世界に飛ばされた一人と、現世に取り残された二人。電話をつないで力を合わせ、脱出を目指せ。
-二つの世界を切り替えて進む探索ADV。
+[Re:verser]
+
+「反転」ギミックを使って扉までたどり着け！２Dアクション型簡単パズルゲームです。
 
 - 開発環境：Unity
-- 開発期間：2023/1/20～
-- フリゲ掲載サイトに投稿予定
+- 開発期間：約5ヶ月
+- 卒業制作
 
-## 連絡先
-- Twitter [@rum1341](https://twitter.com/rum1341) 
-- E-mail [hori.datgp@gmail.com](mailto:hori.datgp@gmail.com)
+### 最期の灯
+[<img src="" alt="TheLastLight" style="height: 360px">]()
+
+[TheLastLight]()
+
+静かな海と塔、そして灯。少年の過ごす最期の３日間。2D ADVです。
+
+- 開発環境：Unity
+- 開発期間：2023/12/18～
+
