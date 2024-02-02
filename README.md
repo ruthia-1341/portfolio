@@ -20,6 +20,28 @@
 
 ## 作品リスト
 
+### Re:verser
+[<img src="reverser.gif" alt="Re:verser" style="height: 360px">]
+
+Re:verser
+
+「反転」ギミックを使って扉までたどり着け！２Dアクション型簡単パズルゲームです。
+
+- 開発環境：Unity
+- 開発期間：約5ヶ月
+- 卒業制作
+  
+### Re:verser（旧）
+[<img src="samune1.gif" alt="Re:verser" style="height: 360px">](https://unityroom.com/games/reverser)
+
+[Re:verser](https://unityroom.com/games/reverser)
+
+重力や色をReverseして旗の元までたどり着け！反転を使って進むパズルゲームです。
+
+- 開発環境：Unity
+- 開発期間：9日
+- 1週間ゲームジャム「Re」参加作品
+  
 ### RENDA RUN
 [<img src="rendarun.gif" alt="RENDA RUN" style="height: 360px">](https://unityroom.com/games/rendarun)
 
@@ -31,17 +53,6 @@
 - 開発期間：7日
 - 一週間ゲームジャム「ためる」参加作品
 
-### Re:verser（旧）
-[<img src="samune1.gif" alt="Re:verser" style="height: 360px">](https://unityroom.com/games/reverser)
-
-[Re:verser](https://unityroom.com/games/reverser)
-
-重力や色をReverseして旗の元までたどり着け！反転を使って進むパズルゲームです。
-
-- 開発環境：Unity
-- 開発期間：9日
-- 1週間ゲームジャム「Re」参加作品
-
 ### RINGO SYOKUNIN
 [<img src="ringosyokunin.gif" alt="RINGO SYOKUNIN" style="height: 360px">](https://unityroom.com/games/ringo-syokunin)
 
@@ -52,17 +63,6 @@
 - 開発環境：Unity
 - 開発期間：10日
 - DATフェスタ展示作品
-
-### Re:verser
-[<img src="reverser.gif" alt="Re:verser" style="height: 360px">]
-
-Re:verser
-
-「反転」ギミックを使って扉までたどり着け！２Dアクション型簡単パズルゲームです。
-
-- 開発環境：Unity
-- 開発期間：約5ヶ月
-- 卒業制作
 
 ### 最期の灯
 [<img src="TLL.gif" alt="TheLastLight" style="height: 360px">]()
